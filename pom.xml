@@ -15,7 +15,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<zookeeper.version>3.9.2</zookeeper.version>
+		<zookeeper.version>3.9.5</zookeeper.version>
 		<guava.version>18.0</guava.version>
 		<junit.version>6.0.3</junit.version>		
 	</properties>
